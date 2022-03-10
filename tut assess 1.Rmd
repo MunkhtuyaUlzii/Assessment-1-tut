@@ -1,0 +1,12 @@
+---
+title: "Assessment tut"
+author: "Munkhtuya Ulzii (s4651732)"
+date: "3/10/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Mark #
